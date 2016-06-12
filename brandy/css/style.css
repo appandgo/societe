@@ -390,13 +390,13 @@ padding-top: 10px;
 /*Footer*/
 footer{
 	background-color: #f1f1f1;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 .footer_logo{}
 .footer_logo img{}
 .social{
-	padding-top: 65px;
+	padding-top: 10px;
 }
 .social h2{
 text-transform: uppercase;
@@ -431,7 +431,7 @@ ul.icon_list li a:hover{
 	border-color:#f73b56; 
 }
 .copyright_text{
-padding-top: 80px;	
+padding-top: 20px;	
 }
 .copyright_text p{
 color: #636363;
