@@ -120,7 +120,7 @@ jQuery(function($) {
 	});
 
 	// Contact form
-	var form = $('#main-contact-form');
+	var form = $('.contact-form');
 	form.submit(function(event){
 		event.preventDefault();
 		var form_status = $('<div class="form_status"></div>');
