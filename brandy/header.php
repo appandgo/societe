@@ -10,7 +10,7 @@
 	                    <span class="icon-bar"></span>
 	                    <span class="icon-bar"></span>
 	                  </button>
-	                  <a class="navbar-brand" href="#"><!-- <img src="images/logo.png" alt=""> -->App And Gooo</a>
+	                  <a class="navbar-brand" href="#"><!-- <img src="images/logo.png" alt=""> -->App And Go</a>
 	                </div>
 
 	                <!-- Collect the nav links, forms, and other content for toggling -->
@@ -19,7 +19,7 @@
 	                    <li><a href="#HOME">Accueil</a></li>
 	                    <li><a href="#SERVICE">Services</a></li>
 	                    <li><a href="#portfolio">Partenaires</a></li>
-	                    <li><a href="#ABOUT">A Propos</a></li>
+	                    <li><a href="#ABOUT">A Proposssss</a></li>
 <!-- 	                    <li><a href="#WORK">Work</a></li>
  -->	                    <li><a href="#CONTACT">Contact</a></li>
 	                  </ul>
