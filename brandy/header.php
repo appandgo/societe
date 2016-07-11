@@ -16,7 +16,7 @@
 	                <!-- Collect the nav links, forms, and other content for toggling -->
 	                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	                  <ul class="nav navbar-nav navbar-right">
-	                    <li><a href="#HOME">Accueil</a></li>
+	                    <li><a href="#HOME">OAccueil</a></li>
 	                    <li><a href="#SERVICE">Services</a></li>
 	                    <li><a href="#portfolio">Partenaires</a></li>
 	                    <li><a href="#ABOUT">A Propos</a></li>
