@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html  lang="fr"  xmlns:og="http://opengraphprotocol.org/schema/"  xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    <meta name="description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
+    <link rel="canonical" href="http://www.app-and-go.fr">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="App and Go - Une équipe jeune et dynamique">
+    <meta property="og:description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
+    <meta property="og:url" content="http://www.app-and-go.fr">
+    <meta property="og:site_name" content="App-and-Go.fr">
+    <meta property="og:image" content="images/fa-rocket-60x60.png" /> 
+    
+    <!-- <meta property="fb:app_id" content="1395648730513184" /> -->
+
+
+
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
+    <meta name="twitter:title" content="App and Go - Une équipe jeune et dynamique">
+
+
+
+    <!--   -->
+    <link rel="icon" href="images/rocket.png" sizes="32x32">
+    <link rel="icon" href="images/rocket.png" sizes="192x192">
+    <link rel="apple-touch-icon-precomposed" href="images/rocket.png">
+    <meta name="msapplication-TileImage" href="images/rocket.png">
+
+
+
+    <?php include_once("analyticstracking.php") ?>
+
+
+    <title>APP AND GO - Application Mobile, Site internet</title>
+
+    <!-- Google Font -->
+    <link href='http://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+     <!-- Preloader -->
+    <link rel="stylesheet" href="css/preloader.css" type="text/css" media="screen, print"/>
+
+    <!-- Icon Font-->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/owl.theme.default.css">
+    <!-- Animate CSS-->
+    <link rel="stylesheet" href="css/animate.css">
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Style -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- Responsive CSS -->
+    <link href="css/responsive.css" rel="stylesheet">
+    
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="js/lte-ie7.js"></script>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+
+   <!-- oxygen script --> 
+
+  <link href="css/main.css" rel="stylesheet">
+
+  <link id="css-preset" href="css/presets/preset1.css" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
+  <link rel="shortcut icon" href="images/rocket.png">
+  <link href="css/lightbox.css" rel="stylesheet">
+<!--   <link href="css/animate.min.css" rel="stylesheet"> --> 
+  <link href="css/font-awesome.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div id="preloader">
+        <div id="status">&nbsp;</div>
+    </div>
+
+
+    <!-- service oxygen -->
+  <?php include('header.php');?>
+    <!-- service oxygen -->
+  <?php include('service.php');?>
+
+  <?php include('parteners-logo.php');?>
+  <?php //include('parteners.php');?>
+
+  <!-- portfolio oxygen -->
+  <?php include('about.php');?>
+
+ 
+
+  <?php include('contact.php');?>
+
+  <?php include('footer.php');?>
+
+
+
+
+<!-- =========================
+     SCRIPTS 
+============================== -->
+
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.nicescroll.js"></script>
+    <script src="js/owl.carousel.js"></script>
+    <script src="js/wow.js"></script>
+    <script src="js/script.js"></script>
+
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/lightbox.min.js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAWyX7bxymlVnabFHYuH5bZ1NKM2xidGAI"></script>    
+ <!--<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>-->
+ 
+    <script type='text/javascript'>function init_map(){var myOptions = {zoom:12,scrollwheel: false,center:new google.maps.LatLng(48.8205669,2.4236550000000534),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(48.8205669,2.4236550000000534)});infowindow = new google.maps.InfoWindow({content:'<strong>APP AND GO</strong><br>saint maurice<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+
+</body>
+
+</html>

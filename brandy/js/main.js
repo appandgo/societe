@@ -119,23 +119,74 @@ jQuery(function($) {
 		$("#portfolio-single").slideUp(500);
 	});
 
-	// Contact form
-	var form = $('.contact-form');
-	form.submit(function(event){
+
+	$('.form_submit').click(function(){
+		var form = $('.contact-form');
 		event.preventDefault();
 		var form_status = $('<div class="form_status"></div>');
+
+		var name=$('#name').val();
+		var email=$('#email').val();
+		var subject=$('#subject').val();
+		var message=$('#message').val();
+
+		// console.log(name);
+		// console.log(email);
+		// console.log(subject);
+		// console.log(message);
+
+		var errors="";
+
+		if(subject=="") errors+="Veuillez entrer votre Sujet.\n";
+		if(message=="") errors+="Veuillez entrer votre message.\n";
+		if(name=="") errors+="Veuillez entrer votre nom.\n";
+		if(email=="") errors+="Veuillez entrer votre email.\n";
+		if(email!="" && (email.indexOf('@')<0 || email.indexOf('.')<0)) errors+="Votre adresse email n'est pas valide !\n";
+
+		if(errors!=""){
+			alert(errors);
+			return false;
+		}
+
 		$.ajax({
-			url: $(this).attr('action'),
+			url: '/sendemail.php',
+			data:{
+				name: name,
+				email: email,
+				subject: subject,
+				message:message
+			},
+
 			beforeSend: function(){
-				form.prepend( form_status.html('<p><i class="fa fa-spinner fa-spin"></i> Email is sending...</p>').fadeIn() );
-			}
-		}).done(function(data){
-			form_status.html('<p class="text-success">Thank you for contact us. As early as possible  we will contact you</p>').delay(3000).fadeOut();
+				form.prepend(form_status.html('<p><i class="fa fa-spinner fa-spin"></i> Email is sending...</p>').fadeIn() );
+			},
+			success: function(txt){
+				if(txt=="ok"){
+					form_status.html('<p class="text-success">Thank you for contact us. As early as possible  we will contact you</p>').delay(3000).fadeOut();
+						
+				}else{
+					alert(txt);
+					console.log(txt);
+				}
+				console.log(txt);
+			},
+			type: 'POST'
 		});
 	});
 
-	//Google Map
-	
-	
+	// var form = $('.contact-form');
+	// form.submit(function(event){
+	// 	event.preventDefault();
+	// 	var form_status = $('<div class="form_status"></div>');
+	// 	$.ajax({
+	// 		url: $(this).attr('action'),
+	// 		beforeSend: function(){
+	// 			form.prepend( form_status.html('<p><i class="fa fa-spinner fa-spin"></i> Email is sending...</p>').fadeIn() );
+	// 		}
+	// 	}).done(function(data){
+	// 		form_status.html('<p class="text-success">Thank you for contact us. As early as possible  we will contact you</p>').delay(3000).fadeOut();
+	// 	});
+	// });
+		
 });
 

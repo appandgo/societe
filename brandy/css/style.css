@@ -16,9 +16,13 @@ h1, h2, h3, h4, h5, h6{
 .navbar-default .navbar-nav>li>a {
 color: #777;
 text-transform: uppercase;
+
 }
+.navbar-right{font-size: 1.2em;}
+
 .navbar-default .navbar-nav>li>a:hover{
 	color: #f74d65;
+
 }
 header{
 	background: url(../images/header_bg.jpg);
@@ -57,7 +61,7 @@ header{
 
 /*Services*/
 .services{
-	padding-top: 96px;
+	padding-top: 40px;
 
 }
 .services .container{
@@ -446,3 +450,7 @@ letter-spacing: 0px;
 	font-weight:700;
 	text-decoration:none;
 	}
+
+
+.socka{height: 282px;
+}
