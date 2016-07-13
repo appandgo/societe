@@ -32,7 +32,7 @@
 	                    <div class="col-md-12 text-center">
 	                        <div class="home_text wow fadeInUp animated">
 	                            <h2>APP and GO</h2>
-	                            <p>Spécialiste Applications Mobiles</p>
+	                            <p>Spécialiste Applications Mobiles.</p>
 	                  
 	                            <img src="images/shape.png" alt="">                        
 	                        </div>
