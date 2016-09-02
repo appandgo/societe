@@ -234,7 +234,7 @@
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3><a href="http://www.deratisation.paris/">Les deratiseurs</a></h3>r
+                    <h3><a href="http://www.deratisation.paris/">Les deratiseurs</a></h3>
                   </div>
                   <div class="folio-overview">
                     <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="parteners/deratisation.html" ><i class="fa fa-link"></i></a></span>
