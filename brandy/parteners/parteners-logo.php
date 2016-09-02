@@ -2,7 +2,7 @@
     <div class="container">
       <div class="row">
         <div class="heading text-center col-sm-8 col-sm-offset-2 wow fadeInUp" data-wow-duration="100ms" data-wow-delay="200ms">
-          <h2>Nos partenaires qui nous ont fait confiance</h2>
+          <h2>Ils nous font confiance</h2>
 <!--           <p>Dans l'idée de créer votre Application Mobile, voici quelques exemples de nos créations</p>
  -->
            <!--  <p>Dans l'idée de créer votre Application Mobile, voici quelques partenaires ou client qui on demander une application</p> -->

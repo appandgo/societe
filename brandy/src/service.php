@@ -17,8 +17,7 @@
             </div>
             <div class="service-info">
               <h3>MOBILE</h3>
-              <p>Nous concevons des applications pour<br><span>IOS, 
-ANDROID</span></p>
+              <p>Nous concevons des applications <br>pour<span> IOS et ANDROID</span></p>
             </div>
           </div>
           <div class="col-sm-4 wow fadeInDown socka" data-wow-duration="100ms" data-wow-delay="300ms">
@@ -56,7 +55,7 @@ ANDROID</span></p>
             <div class="service-info">
               <h3>ENGAGEMENT</h3>
 <!--               <p>Nous assurons le développement de votre application mobile avec engagement de délais et de résultats.</p>
- -->              <p>qualité de résultats et délais toujours respectés.</p>
+ -->              <p>Nous vous promettons des résultats de qualité dans un délais toujours respectés.</p>
             </div>
           </div>
           <div class="col-sm-4 wow fadeInUp socka" data-wow-duration="100ms" data-wow-delay="500ms">
@@ -65,7 +64,7 @@ ANDROID</span></p>
             </div>
             <div class="service-info">
               <h3>MAINTENANCE</h3>
-              <p>Une maintenance pour tous vos projets. </p>
+              <p>Nous nous engageons à assurer une maintenance pour tous vos projets.</p>
             </div>
           </div>
         </div>

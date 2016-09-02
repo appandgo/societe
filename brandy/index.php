@@ -17,8 +17,8 @@
     <meta property="og:url" content="http://www.app-and-go.fr">
     <meta property="og:site_name" content="App-and-Go.fr">
     <meta property="og:image" content="images/fa-rocket-60x60.png" /> 
-    
-    <!-- <meta property="fb:app_id" content="1395648730513184" /> -->
+<!--     <meta property="og:image" content="images/logo_appandgo/AppGofavicon.png" /> -->   
+  <!-- <meta property="fb:app_id" content="1395648730513184" /> -->
 
 
 
@@ -30,10 +30,10 @@
 
 
     <!--   -->
-    <link rel="icon" href="images/rocket.png" sizes="32x32">
-    <link rel="icon" href="images/rocket.png" sizes="192x192">
-    <link rel="apple-touch-icon-precomposed" href="images/rocket.png">
-    <meta name="msapplication-TileImage" href="images/rocket.png">
+    <link rel="icon" href="images/logo_appandgo/AppGofavicon.png" sizes="32x32">
+    <link rel="icon" href="images/logo_appandgo/AppGofavicon.png" sizes="192x192">
+    <link rel="apple-touch-icon-precomposed" href="images/logo_appandgo/AppGofavicon.png">
+    <meta name="msapplication-TileImage" href="images/logo_appandgo/AppGofavicon.png">
 
 
 
