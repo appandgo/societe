@@ -31,10 +31,11 @@
 	                <div class="row">
 	                    <div class="col-md-12 text-center">
 	                        <div class="home_text wow fadeInUp animated">
-	                            <h2>APP and GO</h2>
+	                            <!-- <img src="images/logo_appandgo/AppGo380.png" alt="APP and GO"> -->                        
+
+	                            <h2>APP and GO</h2> 
 	                            <p>Spécialiste Applications Mobiles.</p>
 	                  
-	                            <img src="images/shape.png" alt="">                        
 	                        </div>
 	                    </div>
 	                </div>
