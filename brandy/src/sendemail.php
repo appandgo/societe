@@ -24,7 +24,7 @@ $result=mail($to, $subject, $message, implode("\r\n", $headers));
 
 
 
-print('ok');
-die;
+//print('ok');
+//die;
 
 ?>

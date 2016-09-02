@@ -25,11 +25,11 @@
                     </div>
                     <div class="single_contact_info">
                         <h2>Email</h2>
-                        <p>contact.appandgo@gmail.com</p>
+                        <p>contact@app-and-go.fr</p>
                     </div>
                     <div class="single_contact_info">
                         <h2>Adresse</h2>
-                        <p>19 avenue Adrien Damalix 94410 Saint Maurice</p>
+                        <p>19 rue Adrien Damalix 94410 Saint Maurice</p>
                     </div>
                 </div>
                 <div class="col-md-9  wow fadeInRight animated">
