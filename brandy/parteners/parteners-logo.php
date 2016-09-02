@@ -202,7 +202,7 @@
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3><a href="http://lesprovocatrices.fr/">Stop Park</a></h3>
+                    <h3><a href="http://www.stop-park.fr/">Stop Park</a></h3>
                   </div>
                   <div class="folio-overview">
                     <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="stop-park.html" ><i class="fa fa-link"></i></a></span>
@@ -234,7 +234,7 @@
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3><a href="http://deratisation.paris/">Les deratiseurs</a></h3>r
+                    <h3><a href="http://www.deratisation.paris/">Les deratiseurs</a></h3>r
                   </div>
                   <div class="folio-overview">
                     <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="deratisation.html" ><i class="fa fa-link"></i></a></span>
@@ -271,26 +271,6 @@
 
 
 
-        <div class="col-sm-4">
-          <div class="folio-item wow fadeInLeftBig" data-wow-duration="100ms" data-wow-delay="1000ms">
-            <div class="">
-              <img class="img-responsive" src="images/logo-partenairesv2/provocatrice.png" alt="">
-            </div>
-            <div class="overlay">
-              <div class="overlay-content">
-                <div class="overlay-text">
-                  <div class="folio-info">
-                    <h3><a href="http://lesprovocatrices.fr/">Les provocatrices</a></h3>
-                  </div>
-                  <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="lesprovocatrice.html" ><i class="fa fa-link"></i></a></span>
-
-<!--                     <span class="folio-expand"><a href="images/logo-partenairesv2/provocatrice.png"  data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>-->                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
 
 
 
