@@ -40,7 +40,7 @@
     <?php include_once("analyticstracking.php") ?>
 
 
-    <title>APP AND GO - Application Mobile, Site internet</title>
+    <title>APP and GO - Application Mobile, Site internet</title>
 
     <!-- Google Font -->
     <link href='http://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700,800' rel='stylesheet' type='text/css'>
@@ -53,7 +53,7 @@
     <link rel="stylesheet" href="css/preloader.css" type="text/css" media="screen, print"/>
 
     <!-- Icon Font-->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style_appandgo.css">
     <link rel="stylesheet" href="css/owl.carousel.css">
     <link rel="stylesheet" href="css/owl.theme.default.css">
     <!-- Animate CSS-->
@@ -97,21 +97,20 @@
 
 
     <!-- service oxygen -->
-  <?php include('header.php');?>
+  <?php include_once('src/header.php');?>
     <!-- service oxygen -->
-  <?php include('service.php');?>
+  <?php include_once('src/service.php');?>
 
-  <?php include('parteners-logo.php');?>
-  <?php //include('parteners.php');?>
+  <?php include_once('parteners/parteners-logo.php');?>
+
+  <?php //include_once('parteners.php');?>
 
   <!-- portfolio oxygen -->
-  <?php include('about.php');?>
+  <?php include_once('src/about.php');?>
 
- 
+  <?php include_once('src/contact.php');?>
 
-  <?php include('contact.php');?>
-
-  <?php include('footer.php');?>
+  <?php include_once('src/footer.php');?>
 
 
 
