@@ -137,7 +137,7 @@ jQuery(function($) {
 
 		var errors="";
 
-		if(subject=="") errors+="Veuillez entrer votre Sujet.\n";
+		if(subject=="") errors+="Veuillez entrer l'objet du message.\n";
 		if(message=="") errors+="Veuillez entrer votre message.\n";
 		if(name=="") errors+="Veuillez entrer votre nom.\n";
 		if(email=="") errors+="Veuillez entrer votre email.\n";
@@ -149,7 +149,7 @@ jQuery(function($) {
 		}
 
 		$.ajax({
-			url: '/sendemail.php',
+			url: '/src/sendemail.php',
 			data:{
 				name: name,
 				email: email,
@@ -158,11 +158,11 @@ jQuery(function($) {
 			},
 
 			beforeSend: function(){
-				form.prepend(form_status.html('<p><i class="fa fa-spinner fa-spin"></i> Email is sending...</p>').fadeIn() );
+				form.prepend(form_status.html('<p><i class="fa fa-spinner fa-spin"></i> E-mail en cours d\'envoi...</p>').fadeIn() );
 			},
 			success: function(txt){
 				if(txt=="ok"){
-					form_status.html('<p class="text-success">Thank you for contact us. As early as possible  we will contact you</p>').delay(3000).fadeOut();
+					form_status.html('<p class="text-success">Merci de nous avoir contacté. Nous vous répondrons dans les plus brefs délais</p>').delay(3000).fadeOut();
 						
 				}else{
 					alert(txt);
