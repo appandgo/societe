@@ -29,7 +29,7 @@
  -->                   <!--  <p>Site professionelle</p> -->
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="page-france-deco.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="parteners/page-france-deco.html" ><i class="fa fa-link"></i></a></span>
 <!--                     <span class="folio-expand"><a href="images/logo-partenairesv2/france-deco.png" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
  -->                  </div>
                 </div>
@@ -50,7 +50,7 @@
                     <h3><a href="https://www.jardiland.com/">Jardiland</a></h3>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="jardiland.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="parteners/jardiland.html" ><i class="fa fa-link"></i></a></span>
 <!--                     <span class="folio-expand"><a href="images/logo-partenaires/jardiland.png" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
  -->                  </div>
                 </div>
@@ -71,7 +71,7 @@
                     <h3><a href="http://www.relookitchen.com/">Relookitchen</a></h3>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="relookitchen.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="parteners/relookitchen.html" ><i class="fa fa-link"></i></a></span>
 
 <!--                     <span class="folio-expand"><a href="images/logo-partenairesv2/relookitchen.png" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
  -->                  </div>
@@ -93,7 +93,7 @@
                     <h3><a href="http://www.placedumariage.fr/">Place du mariage</a></h3>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="placedumariage.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="parteners/placedumariage.html" ><i class="fa fa-link"></i></a></span>
 
 <!--                     <span class="folio-expand"><a href="images/logo-partenairesv2/place_du_mariage.png" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
  -->                  </div>
@@ -116,7 +116,7 @@
                     <h3><a href="http://distreeb.com/">Distreeb</a></h3>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="page-distreeb.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="parteners/page-distreeb.html" ><i class="fa fa-link"></i></a></span>
 
 <!--                     <span class="folio-expand"><a href="images/logo-partenairesv2/distreeb.png" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
  -->                  </div>
@@ -138,7 +138,7 @@
                     <h3><a href="http://ledeclair-distribution.fr/">Ledeclair</a></h3>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="ledeclair.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="parteners/ledeclair.html" ><i class="fa fa-link"></i></a></span>
 
 <!--                     <span class="folio-expand"><a href="images/logo-partenairesv2/led-eclair.png" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
  -->                  </div>
@@ -160,7 +160,7 @@
                     <h3><a href="http://www.adequatfrance.com/">Adequat</a></h3>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="adequat.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="parteners/adequat.html" ><i class="fa fa-link"></i></a></span>
 
 <!--                     <span class="folio-expand"><a href="images/logo-partenairesv2/adequat.pngr" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
  -->                  </div>
@@ -182,7 +182,7 @@
                     <h3><a href="http://lesprovocatrices.fr/">Les provocatrices</a></h3>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="lesprovocatrice.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="parteners/lesprovocatrice.html" ><i class="fa fa-link"></i></a></span>
 
 <!--                     <span class="folio-expand"><a href="images/logo-partenairesv2/provocatrice.png"  data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>-->                  </div>
                 </div>
@@ -205,7 +205,7 @@
                     <h3><a href="http://www.stop-park.fr/">Stop Park</a></h3>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="stop-park.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="parteners/stop-park.html" ><i class="fa fa-link"></i></a></span>
 
 <!--                     <span class="folio-expand"><a href="images/logo-partenairesv2/stop-park.png"  data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>-->                  </div>
                 </div>
@@ -237,7 +237,7 @@
                     <h3><a href="http://www.deratisation.paris/">Les deratiseurs</a></h3>r
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="deratisation.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="parteners/deratisation.html" ><i class="fa fa-link"></i></a></span>
 
 <!--                     <span class="folio-expand"><a href="images/logo-partenairesv2/provocatrice.png"  data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>-->                  </div>
                 </div>
@@ -260,7 +260,7 @@
                     <h3><a href="http://investanddesign.com/">Invest & Design</a></h3>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="investanddesign.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="parteners/investanddesign.html" ><i class="fa fa-link"></i></a></span>
 
 <!--                     <span class="folio-expand"><a href="images/logo-partenairesv2/provocatrice.png"  data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>-->                  </div>
                 </div>

@@ -167,6 +167,8 @@ jQuery(function($) {
 				}else{
 					alert(txt);
 					console.log(txt);
+
+					form_status.html('<p class="text-success">Une erreur est survenu </p>').delay(2000).fadeOut();
 				}
 				console.log(txt);
 			},
