@@ -10,7 +10,7 @@
 	                    <span class="icon-bar"></span>
 	                    <span class="icon-bar"></span>
 	                  </button>
-	                  <a class="navbar-brand" href="#"><!-- <img src="images/logo.png" alt=""> -->App And Go</a>
+	                  <a class="navbar-brand" href="#"><img src="images/AppGo90.png" alt=""><!-- App And Go --></a>
 	                </div>
 
 	                <!-- Collect the nav links, forms, and other content for toggling -->

@@ -12,15 +12,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4  wow fadeInLeft animated">
-                    <p class="about_us_p">App AND GO est spécialisé dans les applications mobiles et web, nous proposons la conception, la création et la maintenance de site. Nous sommes conseillés en system d'information et logiciel informatique. Grace à la méthode agile, vos fonctionnalités peuvent être modifiées</p>
+                    <p class="about_us_p">App AND GO est spécialisé en applications mobiles et web. Nous réalisons la conception, la création et la maintenance d’application mobile et site internet. Nous apportons une approche jeune et innovante en système d'information et logiciel informatique. De plus, nous utilisons la méthode agile pour vous permettre de modifier vos fonctionnalités.</p>
 
                 </div>
                 <div class="col-md-4  wow fadeInRight animated">
-                    <p class="about_us_p">Nous proposons à chaque client en fonction de leur besoin une perspective et une approche différente. Pour les applications mobiles Nous vous accompagnons dans la création de designs et ergonomies mobiles adaptés à IOS, Android.</p>
+                    <p class="about_us_p">Nous vous proposons en fonction de vos besoins, une perspective et une approche personnalisée. Pour les applications mobiles Nous vous accompagnons dans la création de designs et ergonomies mobiles adaptés à IOS, Android.</p>
 
                 </div>
                 <div class="col-md-4  wow fadeInRight animated">
-                    <p class="about_us_p">Grace à la méthode agile, vos fonctionnalités peuvent être modifiées</p>
+                    <p class="about_us_p">Nous assurons le suivi et la mise a jour de tous vos projets pendant toute la durée de notre partenariat.</p>
                 </div>
             </div>
         </div>

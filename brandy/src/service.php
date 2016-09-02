@@ -36,7 +36,7 @@ ANDROID</span></p>
             </div>
             <div class="service-info">
               <h3>MARKETPLACE</h3>
-              <p>Nous développons votre place de marché en fonction de vos priorités et spécificités.</p>
+              <p>Nous développons votre marketplace en fonction de vos priorités et spécificités.</p>
             </div>
           </div>
           <div class="col-sm-4 wow fadeInUp socka" data-wow-duration="100ms" data-wow-delay="400ms">
