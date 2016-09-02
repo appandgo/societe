@@ -161,15 +161,18 @@ jQuery(function($) {
 				form.prepend(form_status.html('<p><i class="fa fa-spinner fa-spin"></i> E-mail en cours d\'envoi...</p>').fadeIn() );
 			},
 			success: function(txt){
-				if(txt=="ok"){
-					form_status.html('<p class="text-success">Merci de nous avoir contacté. Nous vous répondrons dans les plus brefs délais</p>').delay(3000).fadeOut();
+					
+				// if(txt=="ok"){
 						
-				}else{
-					alert(txt);
-					console.log(txt);
+				// }else{
+				// 	alert(txt);
+				// 	console.log(txt);
+				// 	form_status.html('<p class="text-success">Une erreur est survenu </p>').delay(2000).fadeOut();
+				// }
 
-					form_status.html('<p class="text-success">Une erreur est survenu </p>').delay(2000).fadeOut();
-				}
+				form_status.html('<p class="text-success">Merci de nous avoir contacté. Nous vous répondrons dans les plus brefs délais</p>').delay(3000).fadeOut();
+
+
 				console.log(txt);
 			},
 			type: 'POST'
