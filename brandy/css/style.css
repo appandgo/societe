@@ -467,7 +467,7 @@ letter-spacing: 0px;
 @media (min-width: 1400px) and  (max-width: 1900px){
 
 	.section_overlay {
-        min-height: 650px;
+        min-height: 900px;
 	}
 
 }
@@ -475,7 +475,7 @@ letter-spacing: 0px;
 @media(min-width: 1900px){
 
 	.section_overlay {
-        min-height: 900px;
+        min-height: 1000px;
 	}
 
 }
@@ -490,7 +490,7 @@ letter-spacing: 0px;
 
 }
 
-
+#HOME{background-position: 50% -100px;}
 
 
 @media(max-width: 767px){
@@ -511,7 +511,7 @@ letter-spacing: 0px;
     padding-bottom: 0;
 	}
 
-	#HOME{background-position: 50% 29px;}
+	#HOME{background-position: 50% 30px;}
 
 	.navbar-default .navbar-nav>li>a{margin-top: 0px;}
 
