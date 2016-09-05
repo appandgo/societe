@@ -58,7 +58,6 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Style -->
-    <link href="css/style.css" rel="stylesheet">
 
     <!-- Responsive CSS -->
     <link href="css/responsive.css" rel="stylesheet">
@@ -75,6 +74,9 @@
    <!-- oxygen script --> 
 
   <link href="css/main.css" rel="stylesheet">
+
+  <link href="css/style.css" rel="stylesheet">
+
 
   <link id="css-preset" href="css/presets/preset1.css" rel="stylesheet">
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
