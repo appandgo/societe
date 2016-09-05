@@ -16,31 +16,26 @@
     <meta property="og:description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
     <meta property="og:url" content="http://www.app-and-go.fr">
     <meta property="og:site_name" content="App-and-Go.fr">
-    <meta property="og:image" content="images/fa-rocket-60x60.png" /> 
-    
-    <!-- <meta property="fb:app_id" content="1395648730513184" /> -->
-
-
-
+    <meta property="og:image" content="images/logo_appandgo/V2AppGoFuse18.png" /> 
+ <!--     <meta property="og:image" content="images/logo_appandgo/AppGofavicon.png" />   
+  <!-- <meta property="fb:app_id" content="1395648730513184" /> -->
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
     <meta name="twitter:title" content="App and Go - Une équipe jeune et dynamique">
 
-
-
     <!--   -->
-    <link rel="icon" href="images/rocket.png" sizes="32x32">
-    <link rel="icon" href="images/rocket.png" sizes="192x192">
-    <link rel="apple-touch-icon-precomposed" href="images/rocket.png">
-    <meta name="msapplication-TileImage" href="images/rocket.png">
+   <!--  <link rel="icon" href="images/logo_appandgo/V2AppGoFuse18.png" sizes="32x32">
+    <link rel="icon" href="images/logo_appandgo/V2AppGoFuse18.png" sizes="192x192">
+    <link rel="apple-touch-icon-precomposed" href="images/logo_appandgo/V2AppGoFuse18.png">
+    <meta name="msapplication-TileImage" href="images/logo_appandgo/V2AppGoFuse18.png"> -->
 
-
+<!--   <link rel="icon" type="image/png" href="/images/logo_appandgo/V2AppGoFuse18.png" />
+ -->
 
     <?php include_once("analyticstracking.php") ?>
 
-
-    <title>APP AND GO - Application Mobile, Site internet</title>
+    <title>APP and GO - Application Mobile, Site internet</title>
 
     <!-- Google Font -->
     <link href='http://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700,800' rel='stylesheet' type='text/css'>
@@ -53,7 +48,7 @@
     <link rel="stylesheet" href="css/preloader.css" type="text/css" media="screen, print"/>
 
     <!-- Icon Font-->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style_appandgo.css">
     <link rel="stylesheet" href="css/owl.carousel.css">
     <link rel="stylesheet" href="css/owl.theme.default.css">
     <!-- Animate CSS-->
@@ -63,7 +58,6 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Style -->
-    <link href="css/style.css" rel="stylesheet">
 
     <!-- Responsive CSS -->
     <link href="css/responsive.css" rel="stylesheet">
@@ -81,10 +75,15 @@
 
   <link href="css/main.css" rel="stylesheet">
 
+  <link href="css/style.css" rel="stylesheet">
+
+
   <link id="css-preset" href="css/presets/preset1.css" rel="stylesheet">
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
-  <link rel="shortcut icon" href="images/rocket.png">
-  <link href="css/lightbox.css" rel="stylesheet">
+<!--   <link rel="shortcut icon" href="images/rocket.png">-->
+<link rel="shortcut icon" href="images/logo_appandgo/V2AppGoFuse18.png">
+
+   <link href="css/lightbox.css" rel="stylesheet">
 <!--   <link href="css/animate.min.css" rel="stylesheet"> --> 
   <link href="css/font-awesome.min.css" rel="stylesheet">
 </head>
@@ -97,21 +96,20 @@
 
 
     <!-- service oxygen -->
-  <?php include('header.php');?>
+  <?php include_once('src/header.php');?>
     <!-- service oxygen -->
-  <?php include('service.php');?>
+  <?php include_once('src/service.php');?>
 
-  <?php include('parteners-logo.php');?>
-  <?php //include('parteners.php');?>
+  <?php include_once('parteners/parteners-logo.php');?>
+
+  <?php //include_once('parteners.php');?>
 
   <!-- portfolio oxygen -->
-  <?php include('about.php');?>
+  <?php include_once('src/about.php');?>
 
- 
+  <?php include_once('src/contact.php');?>
 
-  <?php include('contact.php');?>
-
-  <?php include('footer.php');?>
+  <?php include_once('src/footer.php');?>
 
 
 
@@ -133,7 +131,7 @@
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAWyX7bxymlVnabFHYuH5bZ1NKM2xidGAI"></script>    
  <!--<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>-->
  
-    <script type='text/javascript'>function init_map(){var myOptions = {zoom:12,scrollwheel: false,center:new google.maps.LatLng(48.8205669,2.4236550000000534),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(48.8205669,2.4236550000000534)});infowindow = new google.maps.InfoWindow({content:'<strong>APP AND GO</strong><br>saint maurice<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+    <script type='text/javascript'>function init_map(){var myOptions = {zoom:12,scrollwheel: false,center:new google.maps.LatLng(48.8205669,2.4236550000000534),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(48.8205669,2.4236550000000534)});infowindow = new google.maps.InfoWindow({content:'<strong>APP AND GO</strong><br>Saint-Maurice<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
 
 </body>
 
