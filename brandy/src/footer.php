@@ -5,7 +5,8 @@
                 <div class="col-md-12 text-center">
                     <div class="footer_logo   wow fadeInUp animated">
                         <!-- <img src="images/logo.png" alt=""> -->
-                        App And Go
+                        <img src="images/logo_appandgo/V2AppGo70x40.png" alt="">
+                        <!-- App And Go -->
                     </div>
                 </div>
             </div>

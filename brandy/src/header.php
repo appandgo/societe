@@ -10,8 +10,11 @@
 	                    <span class="icon-bar"></span>
 	                    <span class="icon-bar"></span>
 	                  </button>
-	                  <a class="navbar-brand" href="#"><img src="images/logo_appandgo/AppGoFuse.png" alt=""><!-- App And Go --></a>
-	                </div>
+<!-- 	                  <a class="navbar-brand" href="#"><img src="images/logo_appandgo/AppGoFuse.png" alt="">
+ -->
+	                  	<a class="navbar-brand" href="#"><img src="images/logo_appandgo/V2AppGo380.png" alt="">
+	                  <!-- App And Go</a>-->
+  	                </div>
 
 	                <!-- Collect the nav links, forms, and other content for toggling -->
 	                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -31,10 +34,10 @@
 	                <div class="row">
 	                    <div class="col-md-12 text-center">
 	                        <div class="home_text wow fadeInUp animated">
-	                            <!-- <img src="images/logo_appandgo/AppGo380.png" alt="APP and GO"> -->                        
+	                            <img src="images/logo_appandgo/V2AppGo380.png" alt="APP and GO">                        
 
-	                            <h2>APP and GO</h2> 
-	                            <p>Spécialiste Applications Mobiles.</p>
+	                            <!-- <h2>APP and GO</h2> 
+	                            <p>Spécialiste Applications Mobiles.</p> -->
 	                  
 	                        </div>
 	                    </div>
