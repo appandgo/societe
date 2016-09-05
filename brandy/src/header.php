@@ -1,4 +1,5 @@
-    <header id="HOME" style="background-position: 50% -25px;">
+<!--     <header id="HOME" style="background-position: 50% -25px;"> -->
+    <header id="HOME" >
 	        <div class="section_overlay">
 	            <nav class="navbar navbar-default navbar-fixed-top">
 	              <div class="container">
