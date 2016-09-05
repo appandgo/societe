@@ -460,6 +460,8 @@ letter-spacing: 0px;
 .navbar{min-height: 65px;}
 
 /*.navbar{width: 47%;}*/
+.nav .navbar-nav .navbar-right{width: 47%;}
+
 
 .socka{height: 282px;
 }
