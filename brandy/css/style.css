@@ -19,7 +19,7 @@ text-transform: uppercase;
     margin-top: 8px;
 
 }
-.navbar-right{font-size: 1.2em;}
+.navbar-right{font-size: 1.2em; width: 50%;}
 
 .navbar-default .navbar-nav>li>a:hover{
 	color: #f74d65;
@@ -460,7 +460,7 @@ letter-spacing: 0px;
 .navbar{min-height: 65px;}
 
 /*.navbar{width: 47%;}*/
-.nav .navbar-nav .navbar-right{width: 47%;}
+/*.nav .navbar-nav .navbar-right{width: 47%;}*/
 
 
 .socka{height: 282px;
