@@ -13,7 +13,7 @@
         <div class="row">
           <div class="col-sm-4 wow fadeInDown socka" data-wow-duration="100ms" data-wow-delay="200ms">
             <div class="service-icon">
-              <i class="fa fa-flask"></i>
+              <i class="fa fa-mobile"></i>
             </div>
             <div class="service-info">
               <h3>MOBILE</h3>
@@ -22,7 +22,7 @@
           </div>
           <div class="col-sm-4 wow fadeInDown socka" data-wow-duration="100ms" data-wow-delay="300ms">
             <div class="service-icon">
-              <i class="fa fa-umbrella"></i>
+              <i class="fa fa-flask"></i>
             </div>
             <div class="service-info">
               <h3>CONSEIL ET EXPERTISE</h3>
@@ -31,7 +31,7 @@
           </div>
           <div class="col-sm-4 wow fadeInDown socka" data-wow-duration="100ms" data-wow-delay="350ms">
             <div class="service-icon">
-              <i class="fa fa-cloud"></i>
+              <i class="fa fa-globe"></i>
             </div>
             <div class="service-info">
               <h3>MARKETPLACE</h3>
@@ -40,7 +40,7 @@
           </div>
           <div class="col-sm-4 wow fadeInUp socka" data-wow-duration="100ms" data-wow-delay="400ms">
             <div class="service-icon">
-              <i class="fa fa-coffee"></i>
+              <i class="fa fa-briefcase"></i>
             </div>
             <div class="service-info">
               <h3>METHODE AGILE</h3>
@@ -50,7 +50,7 @@
           </div>
           <div class="col-sm-4 wow fadeInUp socka" data-wow-duration="100ms" data-wow-delay="450ms">
             <div class="service-icon">
-              <i class="fa fa-bitbucket"></i>
+              <i class="fa fa-thumbs-o-up"></i>
             </div>
             <div class="service-info">
               <h3>ENGAGEMENT</h3>
@@ -60,7 +60,7 @@
           </div>
           <div class="col-sm-4 wow fadeInUp socka" data-wow-duration="100ms" data-wow-delay="500ms">
             <div class="service-icon">
-              <i class="fa fa-gift"></i>
+              <i class="fa fa-wrench"></i>
             </div>
             <div class="service-info">
               <h3>MAINTENANCE</h3>
