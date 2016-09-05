@@ -34,7 +34,7 @@
 	                <div class="row">
 	                    <div class="col-md-12 text-center">
 	                        <div class="home_text wow fadeInUp animated">
-	                            <img src="images/logo_appandgo/V2AppGo380.png" alt="APP and GO">                        
+	                            <!-- <img src="images/logo_appandgo/V2AppGo380.png" alt="APP and GO">   -->                      
 
 	                            <!-- <h2>APP and GO</h2> 
 	                            <p>Spécialiste Applications Mobiles.</p> -->
