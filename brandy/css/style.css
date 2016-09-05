@@ -458,7 +458,7 @@ letter-spacing: 0px;
 	text-decoration:none;
 	}
 
-@media(max-width: 767px){
+@media(min-width: 767px){
 	.navbar{min-height: 59px;}
 }
 
