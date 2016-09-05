@@ -458,7 +458,10 @@ letter-spacing: 0px;
 	text-decoration:none;
 	}
 
-.navbar{min-height: 59px;}
+@media(max-width: 767px){
+	.navbar{min-height: 59px;}
+}
+
 
 /*.navbar{width: 47%;}*/
 /*.nav .navbar-nav .navbar-right{width: 47%;}*/
