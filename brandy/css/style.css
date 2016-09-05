@@ -460,7 +460,7 @@ letter-spacing: 0px;
 
 @media(max-width: 500px){
 	
-	#bs-example-navbar-collapse-1{    width: 150px;}
+	#bs-example-navbar-collapse-1{    width: 100%;}
 	.container .navbar-header{ height: 12px;}
 
 	.home_text {
