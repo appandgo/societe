@@ -496,12 +496,17 @@ letter-spacing: 0px;
 	#bs-example-navbar-collapse-1{    width: 100%;}
 	.container .navbar-header{ height: 12px;}
 
-	.home_text {
+	/*.home_text {
     margin-top: 377px;
     padding-bottom: 211px;
+	}*/
+
+	 .home_text {
+    margin-top: 196px;
+    padding-bottom: 0;
 	}
 
-	#HOME{background-position: 50% -25px;}
+	#HOME{background-position: 50% 29px;}
 
 	.navbar-default .navbar-nav>li>a{margin-top: 0px;}
 
