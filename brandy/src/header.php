@@ -13,7 +13,7 @@
 	                  </button>
 <!-- 	                  <a class="navbar-brand" href="#"><img src="images/logo_appandgo/AppGoFuse.png" alt="">
  -->
-	                  	<a class="navbar-brand" href="#"><img src="images/logo_appandgo/V2AppGo380.png" alt="">
+	                  	<!-- <a class="navbar-brand" href="#"> --><a href="#"><img src="images/logo_appandgo/V2AppGo380.png"  style="width:108px;height: 50px;margin-top: 1px;" alt=""></a>
 	                  <!-- App And Go</a>-->
   	                </div>
 
