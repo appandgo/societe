@@ -11,22 +11,22 @@
     <meta name="description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
 
     <link rel="canonical" href="http://www.app-and-go.fr">
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
-    <meta property="og:locale" content="fr_FR">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="App and Go - Une agence digitale">
-    <meta property="og:description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
-    <meta property="og:url" content="http://www.app-and-go.fr">
-    <meta property="og:site_name" content="www.app-and-go.fr">
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="App and Go - Agence digitale" />
+    <meta property="og:description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet." />
+    <meta property="og:url" content="http://www.app-and-go.fr" />
+    <meta property="og:site_name" content="www.app-and-go.fr" />
     <meta property="og:image" content="http://www.app-and-go.fr/images/logo_appandgo/V2AppGoFuse18.png" /> 
     <meta property="fb:app_id" content="1193258404072842" />
+    <meta property="fb:page_id" content="1395648730513184" /> 
+    <!--<meta property="fb:admins" content="ID_FACEBOOK_DU_WEBMASTER" /> -->
+
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
-    <meta name="twitter:title" content="App and Go - Une agence digitale">
+    <meta name="twitter:title" content="App and Go - Agence digitale">
 
     
     <link rel="icon" href="images/logo_appandgo/V2AppGoFuse18.png" sizes="32x32">

@@ -285,9 +285,9 @@ section {
   transition: background-color 0.2s ease;
 }
 
-.our-services .col-sm-4:hover .service-icon {
+/*.our-services .col-sm-4:hover .service-icon {
   background-color: #333;
-}
+}*/
 
 .our-services .col-sm-4 {
   border-right:1px solid #f2f2f2;

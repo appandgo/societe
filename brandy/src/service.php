@@ -22,11 +22,11 @@
           </div>
           <div class="col-sm-4 wow fadeInDown socka" data-wow-duration="100ms" data-wow-delay="300ms">
             <div class="service-icon">
-              <i class="fa fa-flask"></i>
+              <i class="fa fa-desktop"></i>
             </div>
             <div class="service-info">
-              <h3>CONSEIL ET EXPERTISE</h3>
-              <p>Bénéficiez de notre expertise et de notre savoir-faire pour vous aider à modéliser la solution la mieux adaptée à vos besoins</p>
+              <h3>WEB</h3>
+              <p>Nous réalisons des sites sur-mesure pour votre activité professionnelle (BLOG, INTRANET, CMS, E-COMMERCE, RESPONSIVE DESIGN).</p>
             </div>
           </div>
           <div class="col-sm-4 wow fadeInDown socka" data-wow-duration="100ms" data-wow-delay="350ms">
@@ -40,22 +40,36 @@
           </div>
           <div class="col-sm-4 wow fadeInUp socka" data-wow-duration="100ms" data-wow-delay="400ms">
             <div class="service-icon">
-              <i class="fa fa-briefcase"></i>
-            </div>
-            <div class="service-info">
-              <h3>METHODE AGILE</h3>
-              <!-- <p>Nous assurons en continue un échange avec le client pour mieux répondre au besoin pendant le projet.</p> -->
-              <p>Nous vous assurons un acompagnement assidu tout au long de votre projet.</p>
-            </div>
-          </div>
-          <div class="col-sm-4 wow fadeInUp socka" data-wow-duration="100ms" data-wow-delay="450ms">
-            <div class="service-icon">
-              <i class="fa fa-thumbs-o-up"></i>
+               <i class="fa fa-thumbs-o-up"></i>
             </div>
             <div class="service-info">
               <h3>ENGAGEMENT</h3>
 <!--               <p>Nous assurons le développement de votre application mobile avec engagement de délais et de résultats.</p>
- -->              <p>Nous vous promettons des résultats de qualité dans un délais toujours respectés.</p>
+ -->              <p>Nous vous promettons des résultats de qualité dans un délai toujours respecté.</p>
+            </div>
+          </div>
+
+
+
+          <!-- <div class="col-sm-4 wow fadeInUp socka" data-wow-duration="100ms" data-wow-delay="400ms">
+            <div class="service-icon">
+              <i class="fa fa-briefcase"></i>
+            </div>
+            <div class="service-info">
+              <h3>METHODE AGILE</h3>
+              <p>Nous vous assurons un acompagnement assidu tout au long de votre projet.</p>
+            </div>
+          </div> -->
+
+
+
+          <div class="col-sm-4 wow fadeInUp socka" data-wow-duration="100ms" data-wow-delay="450ms">
+            <div class="service-icon">
+               <i class="fa fa-flask"></i>
+            </div>
+            <div class="service-info">
+              <h3>CONSEIL ET EXPERTISE</h3>
+              <p>Bénéficiez de notre expertise et de notre savoir-faire pour vous aider à modéliser la solution la mieux adaptée à vos besoins</p>
             </div>
           </div>
           <div class="col-sm-4 wow fadeInUp socka" data-wow-duration="100ms" data-wow-delay="500ms">
