@@ -20,7 +20,7 @@
 
                 </div>
                 <div class="col-md-4  wow fadeInRight animated">
-                    <p class="about_us_p">Nous assurons le suivi et la mise à jour de tous vos projets pendant toute la durée de notre partenariat.</p>
+                    <p class="about_us_p">Notre développement est basée sur l’approche Agile et sur l’Extreme Programming. Nous assurons acompagnement assidu et la mise à jour de tous vos projets pendant toute la durée de notre partenariat.</p>
                 </div>
             </div>
         </div>
