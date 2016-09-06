@@ -16,22 +16,19 @@
     <meta property="og:description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
     <meta property="og:url" content="http://www.app-and-go.fr">
     <meta property="og:site_name" content="App-and-Go.fr">
-    <meta property="og:image" content="images/logo_appandgo/V2AppGoFuse18.png" /> 
- <!--     <meta property="og:image" content="images/logo_appandgo/AppGofavicon.png" />   
-  <!-- <meta property="fb:app_id" content="1395648730513184" /> -->
+    <meta property="og:image" content="images/logo_appandgo/V2AppGo380.png" /> 
+    <meta property="fb:app_id" content="1395648730513184" />
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
     <meta name="twitter:title" content="App and Go - Une équipe jeune et dynamique">
 
-    <!--   -->
-   <!--  <link rel="icon" href="images/logo_appandgo/V2AppGoFuse18.png" sizes="32x32">
+    
+    <link rel="icon" href="images/logo_appandgo/V2AppGoFuse18.png" sizes="32x32">
     <link rel="icon" href="images/logo_appandgo/V2AppGoFuse18.png" sizes="192x192">
-    <link rel="apple-touch-icon-precomposed" href="images/logo_appandgo/V2AppGoFuse18.png">
-    <meta name="msapplication-TileImage" href="images/logo_appandgo/V2AppGoFuse18.png"> -->
+    <link rel="apple-touch-icon-precomposed" href="images/logo_appandgo/V2AppGo380.png">
+    <meta name="msapplication-TileImage" href="images/logo_appandgo/V2AppGo380.png">
 
-<!--   <link rel="icon" type="image/png" href="/images/logo_appandgo/V2AppGoFuse18.png" />
- -->
 
     <?php include_once("analyticstracking.php") ?>
 
