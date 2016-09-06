@@ -25,8 +25,8 @@
               <i class="fa fa-desktop"></i>
             </div>
             <div class="service-info">
-              <h3>WEB RESPONSIVE</h3>
-              <p>Nous réalisons des sites sur-mesure pour votre activité professionnelle (INTERNET, EXTRANET, INTRANET, CMS, E-COMMERCE, MOBILE).</p>
+              <h3>WEB</h3>
+              <p>Nous réalisons des sites sur-mesure pour votre activité professionnelle (BLOG, INTRANET, CMS, E-COMMERCE, RESPONSIVE DESIGN).</p>
             </div>
           </div>
           <div class="col-sm-4 wow fadeInDown socka" data-wow-duration="100ms" data-wow-delay="350ms">
