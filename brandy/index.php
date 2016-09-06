@@ -127,6 +127,8 @@
 
   <?php include_once('parteners/parteners-logo.php');?>
 
+  <?php include_once('src/team.php');?>
+
   <?php //include_once('parteners.php');?>
 
   <!-- portfolio oxygen -->
