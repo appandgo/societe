@@ -29,7 +29,7 @@
  -->                   <!--  <p>Site professionelle</p> -->
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="page-france-deco.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="page-france-deco.html" ><i class="fa fa-search-plus"></i></a></span>
 <!--                     <span class="folio-expand"><a href="images/logo-partenairesv2/france-deco.png" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
  -->                  </div>
                 </div>
