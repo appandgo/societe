@@ -26,7 +26,7 @@
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
-    <meta name="twitter:title" content="App and Go - Une agence digitale">
+    <meta name="twitter:title" content="App and Go - Agence digitale">
 
     
     <link rel="icon" href="images/logo_appandgo/V2AppGoFuse18.png" sizes="32x32">
