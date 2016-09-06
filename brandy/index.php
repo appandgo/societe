@@ -8,7 +8,7 @@
 
 
 
-    <meta name="description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
+    <meta name="description" content="APP and GO vous accompagne dans le développement de vos applications mobiles et site internet.">
 
     <link rel="canonical" href="http://www.app-and-go.fr">
 
@@ -16,16 +16,16 @@
     <meta property="og:type"        content="website" />
     <!--<meta property="fb:app_id"      content="1193258404072842" />-->
     <meta property="fb:page_id"     content="1395648730513184" />
-    <meta property="og:title"       content="App and Go - Agence digitale" />
-    <meta property="og:description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet." />
+    <meta property="og:title"       content="App and GO - Agence digitale" />
+    <meta property="og:description" content="App and GO vous accompagne dans le développement de vos applications mobiles et site internet." />
     <meta property="og:url"         content="http://www.app-and-go.fr" />
     <meta property="og:site_name"   content="www.app-and-go.fr" />
     <meta property="og:image"       content="http://www.app-and-go.fr/images/logo_appandgo/V2AppGoFuse18.png" /> 
 
 
     <meta name="twitter:card"         content="summary">
-    <meta name="twitter:description"  content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
-    <meta name="twitter:title"        content="App and Go - Agence digitale">
+    <meta name="twitter:description"  content="APP and GO vous accompagne dans le développement de vos applications mobiles et site internet.">
+    <meta name="twitter:title"        content="APP and GO - Agence digitale">
 
     
     <link rel="icon" href="images/logo_appandgo/V2AppGoFuse18.png" sizes="32x32">
