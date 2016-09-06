@@ -10,14 +10,15 @@
 
     <meta name="description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
     <link rel="canonical" href="http://www.app-and-go.fr">
+
     <meta property="og:locale" content="fr_FR">
     <meta property="og:type" content="website">
     <meta property="og:title" content="App and Go - Une agence digitale">
     <meta property="og:description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
     <meta property="og:url" content="http://www.app-and-go.fr">
-    <meta property="og:site_name" content="App-and-Go.fr">
-    <meta property="og:image" content="images/logo_appandgo/V2AppGoFuse18.png" /> 
-    <meta property="fb:app_id" content="1395648730513184" />
+    <meta property="og:site_name" content="www.app-and-go.fr">
+    <meta property="og:image" content="http://www.app-and-go.fr/images/logo_appandgo/V2AppGoFuse18.png" /> 
+    <meta property="fb:app_id" content="1193258404072842" />
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:description" content="App and Go vous accompagne dans le développement de vos applications mobiles et site internet.">
@@ -87,6 +88,21 @@
 
 <body>
 
+
+
+<!--
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.7&appId=1193258404072842";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+-->
+
+
+
     <script>
   window.fbAsyncInit = function() {
     FB.init({
@@ -100,7 +116,7 @@
      var js, fjs = d.getElementsByTagName(s)[0];
      if (d.getElementById(id)) {return;}
      js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
+     js.src = "//connect.facebook.net/fr_FR/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>

@@ -20,11 +20,16 @@
                             <!--<li><a href="http://www.facebook.com/"target="_blank"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="http://www.twitter.com/"target="_blank"><i class="fa fa-twitter"></i></a></li>-->
                             <li>
-                                <div
-                                  class="fb-like"
-                                  data-share="true"
-                                  data-width="450"
-                                  data-show-faces="true">
+
+                                <div 
+                                    class="fb-like" 
+                                    data-href="https://www.facebook.com/appandgo/" 
+                                    data-layout="button_count" 
+                                    data-action="like" 
+                                    data-size="large" 
+                                    data-show-faces="true" 
+                                    data-share="true"
+                                >
                                 </div>
                             </li>
                             <!--
