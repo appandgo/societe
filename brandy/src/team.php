@@ -53,7 +53,7 @@
           <div class="col-sm-4">
             <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="800ms">
               <div class="member-image soufir">
-                <img class="img-responsive" src="images/team/brianbolos.jpg" alt="">
+                <img class="img-responsive" src="images/team/brianfou.jpg" alt="">
               </div>
               <div class="member-info">
                 <h3>Brian Soufir</h3>

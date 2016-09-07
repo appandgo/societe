@@ -540,9 +540,9 @@ section {
   font-size: 14px;
 }
 
-.team-member:hover .zakine{content:url(http://localhost:8888/societe/brandy/images/team/brianbolos.jpg);width: 100%;}
+/*.team-member:hover .zakine{content:url(http://localhost:8888/societe/brandy/images/team/brianbolos.jpg);width: 100%;}*/
 
-.team-member:hover .soufir{content:url(http://localhost:8888/societe/brandy/images/team/brian.jpg);width: 100%;}
+.team-member:hover .soufir{content:url(http://localhost:8888/societe/brandy/images/team/brianbolos.jpg);width: 100%;}
 
 .team-member:hover .social-icons ul li a.facebook {
   background-color: #3b5999;
