@@ -71,27 +71,24 @@
               </div>
             </div>
           </div>
-          <!-- <div class="col-sm-3">
+          <div class="col-sm-4">
             <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="1100ms">
-              <div class="member-image">
-                <img class="img-responsive" src="images/team/4.jpg" alt="">
+              <div class="member-image leo">
+                <img class="img-responsive" src="images/team/leo.jpeg" alt="">
               </div>
               <div class="member-info">
-                <h3>Marian Dixon</h3>
-                <h4>Support Manager</h4>
+                <h3>Léonard Boisseau</h3>
+                <h4>UI/UX Designer</h4>
                 <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
               </div>
               <div class="social-icons">
                 <ul>
                   <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                  <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-                  <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-                  <li><a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a></li>
-                  <li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li>
+                  <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>                  
                 </ul>
               </div>
             </div>
-          </div> -->
+          </div>
         </div>
       </div>            
     </div>
