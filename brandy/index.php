@@ -123,7 +123,7 @@
     <!-- service oxygen -->
   <?php include_once('src/header.php');?>
     <!-- service oxygen -->
-  <?php include_once('src/service.php');?>
+  <?php include_once('src/service2.php');?>
 
   <?php include_once('parteners/parteners-logo.php');?>
 
