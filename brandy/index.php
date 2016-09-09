@@ -14,7 +14,7 @@
 
     <meta property="og:locale"      content="fr_FR" />
     <meta property="og:type"        content="website" />
-    <!--<meta property="fb:app_id"      content="1193258404072842" />-->
+    <meta property="fb:app_id"      content="1193258404072842" />
     <meta property="fb:page_id"     content="1395648730513184" />
     <meta property="og:title"       content="App and GO - Agence digitale" />
     <meta property="og:description" content="App and GO vous accompagne dans le développement de vos applications mobiles et site internet." />
