@@ -16,7 +16,7 @@
               </div>
               <div class="member-info">
                 <h3>Anthony</h3>
-                <h4>CEO &amp; Founder</h4>
+                <h4>CEO &amp; Co-Founder</h4>
                <!--  <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt</p> -->
               </div>
               <div class="social-icons">
@@ -58,7 +58,7 @@
               </div>
               <div class="member-info">
                 <h3>Brian</h3>
-                <h4>Developer</h4>
+                <h4>CTO &amp; Co-Founder </h4>
                <!--  <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt</p> -->
               </div>
               <div class="social-icons">

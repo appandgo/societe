@@ -20,7 +20,11 @@
     <meta property="og:description" content="App and GO vous accompagne dans le développement de vos applications mobiles et site internet." />
     <meta property="og:url"         content="http://www.app-and-go.fr/" />
     <meta property="og:site_name"   content="www.app-and-go.fr" />
-    <meta property="og:image"       content="http://www.app-and-go.fr/images/logo_appandgo/logoapp-and-go-google.png" /> 
+
+
+    <meta property="og:image"       content="images/team/leo.jpeg" /> 
+
+    <!-- <meta property="og:image"       content="http://www.app-and-go.fr/images/logo_appandgo/logoapp-and-go-google.png" />  -->
 
 
     <meta name="twitter:card"         content="summary">
@@ -28,12 +32,12 @@
     <meta name="twitter:title"        content="APP and GO - Agence digitale">
 
     
-    <link rel="icon" href="images/logo_appandgo/logoapp-and-go-google.png" sizes="32x32">
-    <link rel="icon" href="images/logo_appandgo/logoapp-and-go-google.png" sizes="192x192">
+    <link rel="icon" href="images/logo_appandgo/leo.jpeg" sizes="32x32">
+    <link rel="icon" href="images/logo_appandgo/leo.jpeg" sizes="192x192">
 
     <link rel="apple-touch-icon-precomposed" href="images/logo_appandgo/V2AppGo380.png">
     <meta name="msapplication-TileImage" href="images/logo_appandgo/V2AppGo380.png">
-    
+
     <link rel="shortcut icon" href="images/logo_appandgo/logoapp-and-go-google.png">
 
 
