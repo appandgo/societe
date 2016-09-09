@@ -38,7 +38,7 @@
             <div class="service-info">
               <!-- <h3>WEB MARKETING</h3> -->
               <h3>REFERENCEMENT</h3>
-              <p>SEO - Référencement naturel <br>SEA - référencement Google Adwords <br>SMO - Optimisation par les réseaux sociaux</p>
+              <p>SEO - Référencement naturel <br>SEA - Référencement Google Adwords <br>SMO - Optimisation par les réseaux sociaux</p>
             </div>
           </div>
           <div class="col-sm-4 wow fadeInUp socka" data-wow-duration="100ms" data-wow-delay="400ms">
