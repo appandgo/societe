@@ -20,7 +20,7 @@
     <meta property="og:description" content="App and GO vous accompagne dans le développement de vos applications mobiles et site internet." />
     <meta property="og:url"         content="http://www.app-and-go.fr/" />
     <meta property="og:site_name"   content="www.app-and-go.fr" />
-    <meta property="og:image"       content="images/logo_appandgo/logoapp-and-go-google.png" /> 
+    <meta property="og:image"       content="http://www.app-and-go.fr/images/logo_appandgo/logoapp-and-go-google.png" /> 
 
 
     <meta name="twitter:card"         content="summary">
