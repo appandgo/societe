@@ -34,7 +34,7 @@
     <link rel="apple-touch-icon-precomposed" href="images/logo_appandgo/V2AppGo380.png">
     <meta name="msapplication-TileImage" href="images/logo_appandgo/V2AppGo380.png">
     
-    <link rel="shortcut icon" href="images/logo_appandgo/V2AppGoFuse18.png">
+    <link rel="shortcut icon" href="images/logo_appandgo/logoapp-and-go-google.png">
 
 
     <?php include_once("analyticstracking.php") ?>
