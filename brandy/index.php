@@ -28,8 +28,8 @@
     <meta name="twitter:title"        content="APP and GO - Agence digitale">
 
     
-    <link rel="icon" href="images/logo_appandgo/V2AppGoFuse18.png" sizes="32x32">
-    <link rel="icon" href="images/logo_appandgo/V2AppGoFuse18.png" sizes="192x192">
+    <link rel="icon" href="images/logo_appandgo/logoapp-and-go-google.png" sizes="32x32">
+    <link rel="icon" href="images/logo_appandgo/logoapp-and-go-google.png" sizes="192x192">
 
     <link rel="apple-touch-icon-precomposed" href="images/logo_appandgo/V2AppGo380.png">
     <meta name="msapplication-TileImage" href="images/logo_appandgo/V2AppGo380.png">
