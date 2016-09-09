@@ -543,7 +543,7 @@ section {
 /*.team-member:hover .zakine{content:url(http://localhost:8888/societe/brandy/images/team/brianbolos.jpg);width: 100%;}*/
 .team-member .leo img{width: auto;height: 321px;}
 
-.team-member:hover .soufir{content:url(http://dev.app-and-go.fr/images/team/brianbolos.jpg);width: 100%;height: 320px;}
+/*.team-member:hover .soufir{content:url(http://dev.app-and-go.fr/images/team/brianbolos.jpg);width: 100%;height: 320px;}*/
 
 .team-member:hover .social-icons ul li a.facebook {
   background-color: #3b5999;
