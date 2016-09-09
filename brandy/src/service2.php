@@ -13,7 +13,7 @@
         <div class="row">
           <div class="col-sm-4 wow fadeInDown socka" data-wow-duration="100ms" data-wow-delay="200ms">
             <div class="service-icon">
-              <i class="fa fa-mobile"></i>
+              <i class="fa fa-crop"></i>
             </div>
             <div class="service-info">
               
@@ -33,7 +33,7 @@
           </div>
           <div class="col-sm-4 wow fadeInDown socka" data-wow-duration="100ms" data-wow-delay="350ms">
             <div class="service-icon">
-              <i class="fa fa-globe"></i>
+              <i class="fa fa-search"></i>
             </div>
             <div class="service-info">
               <!-- <h3>WEB MARKETING</h3> -->
