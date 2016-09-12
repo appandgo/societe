@@ -22,7 +22,7 @@
     <meta property="og:site_name"   content="www.app-and-go.fr" />
 
 
-    <meta property="og:image"       content="images/team/leo.jpeg" /> 
+    <meta property="og:image"       content="http://www.app-and-go.fr/images/team/leo.jpeg" /> 
 
     <!-- <meta property="og:image"       content="http://www.app-and-go.fr/images/logo_appandgo/logoapp-and-go-google.png" />  -->
 
