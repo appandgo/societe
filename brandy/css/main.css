@@ -541,10 +541,13 @@ section {
 }
 
 /*.team-member:hover .zakine{content:url(http://localhost:8888/societe/brandy/images/team/brianbolos.jpg);width: 100%;}*/
-.team-member .leo img{width: auto;height: 250px;}
+
+.team-member .leo img{width: auto;height: 320px;}
+
+/*.team-member .leo img{width: auto;height: 250px;}
 .team-member .cedric img{width: auto;height: 250px;}
 .team-member .soufir img{width: auto;height: 250px;}
-.team-member .zakine img{width: auto;height: 250px;}
+.team-member .zakine img{width: auto;height: 250px;}*/
 
 /*.team-member:hover .soufir{content:url(http://dev.app-and-go.fr/images/team/brianbolos.jpg);width: 100%;height: 320px;}*/
 
