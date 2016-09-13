@@ -18,7 +18,7 @@
             <div class="service-info">
               
               <h3>CREATION GRAPHIQUE</h3>
-              <p>Identité visuelle /  Charte graphique  / Logo <br>  Webdesign  <br></p>
+              <p>Identité visuelle /  Charte graphique  / Logo<br>  Webdesign. <br></p>
             </div>
           </div>
           <div class="col-sm-4 wow fadeInDown socka" data-wow-duration="100ms" data-wow-delay="300ms">
@@ -27,7 +27,7 @@
             </div>
             <div class="service-info">
               <h3>DEVELOPPEMENT</h3>
-              <p>Site internet / Blog  / E-commerce<br><span> Application mobile  / Marketplace</span></p>
+              <p>Site internet / Blog  / E-commerce.<br><span> Application mobile  / Marketplace.</span></p>
               
             </div>
           </div>
@@ -38,7 +38,7 @@
             <div class="service-info">
               <!-- <h3>WEB MARKETING</h3> -->
               <h3>REFERENCEMENT</h3>
-              <p>SEO - Référencement naturel <br>SEA - Référencement Google Adwords <br>SMO - Optimisation par les réseaux sociaux</p>
+              <p>SEO - Référencement naturel. <br>SEA - Référencement Google Adwords. <br>SMO - Optimisation par les réseaux sociaux.</p>
             </div>
           </div>
           <div class="col-sm-4 wow fadeInUp socka" data-wow-duration="100ms" data-wow-delay="400ms">
@@ -72,7 +72,7 @@
             </div>
             <div class="service-info">
               <h3>CONSEIL ET EXPERTISE</h3>
-              <p>Bénéficiez de notre expertise et de notre savoir-faire pour vous aider à modéliser la solution la mieux adaptée à vos besoins</p>
+              <p>Bénéficiez de notre expertise et de notre savoir-faire pour vous aider à modéliser la solution la mieux adaptée à vos besoins.</p>
             </div>
           </div>
           <div class="col-sm-4 wow fadeInUp socka" data-wow-duration="100ms" data-wow-delay="500ms">

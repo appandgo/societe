@@ -20,7 +20,7 @@
 
                 </div>
                 <div class="col-md-4  wow fadeInRight animated">
-                    <p class="about_us_p">Notre développement est basée sur l’approche Agile et l’Extreme Programming. Nous assurons un acompagnement assidu et la mise à jour de tous vos projets pendant la durée de notre partenariat.</p>
+                    <p class="about_us_p">Notre développement est basé sur l’approche Agile et l’Extreme Programming. Nous assurons un acompagnement assidu et la mise à jour de tous vos projets pendant la durée de notre partenariat.</p>
                 </div>
             </div>
         </div>

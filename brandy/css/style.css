@@ -481,11 +481,12 @@ letter-spacing: 0px;
 }
 
 
+
 @media(max-width: 1200px){
 
 	.navbar-right {
-    font-size: 1.2em;
-    width: 80%;
+    font-size: 0.8em;
+    width: 65%;
 	}
 
 }
