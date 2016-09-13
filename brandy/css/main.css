@@ -542,7 +542,45 @@ section {
 
 /*.team-member:hover .zakine{content:url(http://localhost:8888/societe/brandy/images/team/brianbolos.jpg);width: 100%;}*/
 
-.team-member .leo img{width: auto;height: 320px;}
+/*.team-member .leo img{width: auto;height: 320px;}*/
+
+@media(min-width: 1200px){
+
+  .team-member .leo img{width: auto;height: 320px;}
+
+}
+
+@media (max-width: 1200px) and  (min-width: 991px){
+
+  .team-member .leo img{
+    width: auto;height: 285px;
+  }
+  .team-member .zakine img{
+    width: auto;height: 285px;
+  }
+   .team-member .soufir img{
+    width: auto;height: 285px;
+  }
+
+
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+
+  .team-member .zakine img{
+    width: auto;height: 214px;
+  }
+  .team-member .leo img{
+    width: auto;height: 214px;
+  }
+
+.team-member .soufir img{
+    width: auto;height: 214px;
+  }
+}
+
+
+
 
 /*.team-member .leo img{width: auto;height: 250px;}
 .team-member .cedric img{width: auto;height: 250px;}
