@@ -14,8 +14,8 @@
     <div class="container">
       <div class="row">
 
-        <div class=" col-sm-4">
-          <div class="folio-item wow fadeInRightBig" data-wow-duration="100ms" data-wow-delay="300ms">
+        <div class=" col-sm-3">
+          <div class="folio-item  fadeInRightBig" data-wow-duration="100ms" data-wow-delay="300ms">
             <div class="">
               <img class="img-responsive" style="height:120px;" src="images/logo-partenairesv2/france-deco.png" alt="">
             </div>
@@ -38,8 +38,8 @@
           </div>
         </div>
 
-        <div class="col-sm-4">
-          <div class="folio-item wow fadeInLeftBig" data-wow-duration="100ms" data-wow-delay="400ms">
+        <div class="col-sm-3">
+          <div class="folio-item  fadeInLeftBig" data-wow-duration="100ms" data-wow-delay="400ms">
             <div class="">
               <img class="img-responsive" src="images/logo-partenairesv2/jardiland.png" alt="">
             </div>
@@ -59,8 +59,8 @@
           </div>
         </div>
 
-        <div class="col-sm-4">
-          <div class="folio-item wow fadeInRightBig" data-wow-duration="100ms" data-wow-delay="500ms">
+        <div class="col-sm-3">
+          <div class="folio-item  fadeInRightBig" data-wow-duration="100ms" data-wow-delay="500ms">
             <div class="">
               <img class="img-responsive" src="images/logo-partenairesv2/relookitchen.png" alt="">
             </div>
@@ -81,8 +81,8 @@
           </div>
         </div>
  
-       <div class="col-sm-4 ">
-          <div class="folio-item wow fadeInLeftBig" data-wow-duration="100ms" data-wow-delay="600ms">
+       <div class="col-sm-3 ">
+          <div class="folio-item  fadeInLeftBig" data-wow-duration="100ms" data-wow-delay="600ms">
             <div class="">
               <img class="img-responsive"  style="height:120px;" src="images/logo-partenairesv2/place_du_mariage.png" alt="">
             </div>
@@ -104,8 +104,8 @@
         </div>
       <!-- </div> -->
 
-        <div class="col-sm-4">
-          <div class="folio-item wow fadeInRightBig" data-wow-duration="100ms" data-wow-delay="700ms">
+        <div class="col-sm-3">
+          <div class="folio-item  fadeInRightBig" data-wow-duration="100ms" data-wow-delay="700ms">
             <div class="">
               <img class="img-responsive" src="images/logo-partenairesv2/distreeb.png" alt="">
             </div>
@@ -126,8 +126,8 @@
           </div>
         </div>
 
-        <div class="col-sm-4">
-          <div class="folio-item wow fadeInLeftBig" data-wow-duration="100ms" data-wow-delay="800ms">
+        <div class="col-sm-3">
+          <div class="folio-item  fadeInLeftBig" data-wow-duration="100ms" data-wow-delay="800ms">
             <div class="">
               <img class="img-responsive" src="images/logo-partenairesv2/led-eclair.png" alt="">
             </div>
@@ -148,8 +148,8 @@
           </div>
         </div>
 
-        <div class="col-sm-4">
-          <div class="folio-item wow fadeInRightBig" data-wow-duration="100ms" data-wow-delay="900ms">
+        <div class="col-sm-3">
+          <div class="folio-item  fadeInRightBig" data-wow-duration="100ms" data-wow-delay="900ms">
             <div class="">
               <img class="img-responsive" src="images/logo-partenairesv2/adequat.png" alt="">
             </div>
@@ -170,8 +170,8 @@
           </div>
         </div>
 
-        <div class="col-sm-4">
-          <div class="folio-item wow fadeInLeftBig" data-wow-duration="100ms" data-wow-delay="1000ms">
+        <div class="col-sm-3">
+          <div class="folio-item  fadeInLeftBig" data-wow-duration="100ms" data-wow-delay="1000ms">
             <div class="">
               <img class="img-responsive" src="images/logo-partenairesv2/provocatrice.png" alt="">
             </div>
@@ -191,8 +191,8 @@
           </div>
         </div>
 
-        <div class="col-sm-4">
-          <div class="folio-item wow fadeInLeftBig" data-wow-duration="100ms" data-wow-delay="1100ms">
+        <div class="col-sm-3">
+          <div class="folio-item  fadeInLeftBig" data-wow-duration="100ms" data-wow-delay="1100ms">
             <div class="">
               <!-- renverse les images
               <div class="folio-image">-->
@@ -225,8 +225,8 @@
 
 
 
-        <div class="col-sm-4">
-          <div class="folio-item wow fadeInLeftBig" data-wow-duration="100ms" data-wow-delay="1000ms">
+        <div class="col-sm-3">
+          <div class="folio-item  fadeInLeftBig" data-wow-duration="100ms" data-wow-delay="1000ms">
             <div class="">
               <img class="img-responsive" src="images/logo-partenairesv2/deratisation.png" alt="">
             </div>
@@ -248,8 +248,8 @@
 
 
 
-        <div class="col-sm-4">
-          <div class="folio-item wow fadeInLeftBig" data-wow-duration="100ms" data-wow-delay="1000ms">
+        <div class="col-sm-3">
+          <div class="folio-item  fadeInLeftBig" data-wow-duration="100ms" data-wow-delay="1000ms">
             <div class="">
               <img class="img-responsive" src="images/logo-partenairesv2/investanddesign.png" alt="">
             </div>

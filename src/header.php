@@ -23,9 +23,9 @@
 	                    <li><a href="#HOME">Accueil</a></li>
 	                    <li><a href="#SERVICE">Services</a></li>
 	                    <li><a href="#portfolio">Partenaires</a></li>
+	                    <li><a href="#TEAM">Equipe</a></li>
 	                    <li><a href="#ABOUT">A Propos</a></li>
-<!-- 	                    <li><a href="#WORK">Work</a></li>
- -->	                    <li><a href="#CONTACT">Contact</a></li>
+	                    <li><a href="#CONTACT">Contact</a></li>
 	                  </ul>
 	                </div><!-- /.navbar-collapse -->
 	              </div><!-- /.container -->

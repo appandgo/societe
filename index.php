@@ -14,13 +14,17 @@
 
     <meta property="og:locale"      content="fr_FR" />
     <meta property="og:type"        content="website" />
-    <!--<meta property="fb:app_id"      content="1193258404072842" />-->
+    <meta property="fb:app_id"      content="1193258404072842" />
     <meta property="fb:page_id"     content="1395648730513184" />
     <meta property="og:title"       content="App and GO - Agence digitale" />
     <meta property="og:description" content="App and GO vous accompagne dans le développement de vos applications mobiles et site internet." />
-    <meta property="og:url"         content="http://www.app-and-go.fr" />
+    <meta property="og:url"         content="http://www.app-and-go.fr/" />
     <meta property="og:site_name"   content="www.app-and-go.fr" />
-    <meta property="og:image"       content="http://www.app-and-go.fr/images/logo_appandgo/V2AppGoFuse18.png" /> 
+
+
+    <meta property="og:image"       content="http://www.app-and-go.fr/images/team/leo.jpeg" /> 
+
+    <!-- <meta property="og:image"       content="http://www.app-and-go.fr/images/logo_appandgo/logoapp-and-go-google.png" />  -->
 
 
     <meta name="twitter:card"         content="summary">
@@ -28,10 +32,13 @@
     <meta name="twitter:title"        content="APP and GO - Agence digitale">
 
     
-    <link rel="icon" href="images/logo_appandgo/V2AppGoFuse18.png" sizes="32x32">
-    <link rel="icon" href="images/logo_appandgo/V2AppGoFuse18.png" sizes="192x192">
+    <link rel="icon" href="images/logo_appandgo/leo.jpeg" sizes="32x32">
+    <link rel="icon" href="images/logo_appandgo/leo.jpeg" sizes="192x192">
+
     <link rel="apple-touch-icon-precomposed" href="images/logo_appandgo/V2AppGo380.png">
     <meta name="msapplication-TileImage" href="images/logo_appandgo/V2AppGo380.png">
+
+    <link rel="shortcut icon" href="images/logo_appandgo/logoapp-and-go-google.png">
 
 
     <?php include_once("analyticstracking.php") ?>
@@ -82,7 +89,6 @@
   <link id="css-preset" href="css/presets/preset1.css" rel="stylesheet">
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
 <!--   <link rel="shortcut icon" href="images/rocket.png">-->
-<link rel="shortcut icon" href="images/logo_appandgo/V2AppGoFuse18.png">
 
    <link href="css/lightbox.css" rel="stylesheet">
 <!--   <link href="css/animate.min.css" rel="stylesheet"> --> 
@@ -123,7 +129,7 @@
     <!-- service oxygen -->
   <?php include_once('src/header.php');?>
     <!-- service oxygen -->
-  <?php include_once('src/service.php');?>
+  <?php include_once('src/service2.php');?>
 
   <?php include_once('parteners/parteners-logo.php');?>
 
