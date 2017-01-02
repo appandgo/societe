@@ -16,7 +16,7 @@
 
                 </div>
                 <div class="col-md-4  wow fadeInRight animated">
-                    <p class="about_us_p">Nous vous proposons, en fonction de vos besoins, une perspective et une approche personnalisées. Pour les applications mobiles, nous vous accompagnons dans la création de designs et ergonomies mobiles adaptés à IOS et Android.</p>
+                    <p class="about_us_p">Nous vous proposons, en fonction de vos besoins, une perspective et une approche personnalisée. Pour les applications mobiles, nous vous accompagnons dans la création de designs et ergonomies mobiles adaptés à IOS et Android.</p>
 
                 </div>
                 <div class="col-md-4  wow fadeInRight animated">
